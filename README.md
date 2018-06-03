@@ -1,24 +1,10 @@
-# README
+# 心動時刻
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+```
+歡迎做完餐廳論壇的一起來練習
+我會寫好 user story
+開好 erd
+功能實作就交給你們啦
+```
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 
